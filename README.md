@@ -4,7 +4,7 @@ Github展示
 
 https://ivesshe.github.io/React_Redux/
 
-![image](./images/20210307160815.png)
+![image](./images/20210308234012.png)
 
 # Redux是什麼
 
